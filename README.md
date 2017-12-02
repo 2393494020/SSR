@@ -5,5 +5,6 @@ https://tuziss.top/user \
 https://freess.cx \
 https://freess.pw \
 https://freessr.win \
+https://free-ss.site \
 https://yzzz.ml/node https://我永远喜欢霞之丘诗羽.ml/node \
 https://doub.bid/sszhfx
