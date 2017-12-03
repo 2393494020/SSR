@@ -2,6 +2,7 @@ https://m.whatsvpnweb.com \
 https://www.poro.top/user \
 https://s8.work/user \
 https://tuziss.top/user \
+https://1hv.top \
 https://freess.cx \
 https://freess.pw \
 https://freessr.win \
