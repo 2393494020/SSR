@@ -7,5 +7,5 @@ https://freess.cx \
 https://freess.pw \
 https://freessr.win \
 https://free-ss.site \
-https://yzzz.ml/node \
+https://yzzz.ml \
 https://doub.bid/sszhfx
