@@ -11,4 +11,4 @@ https://www.ssrshare.com \
 https://doub.bid/sszhfx \
 
 # 镜像
-https://google.jiongjun.cc \
+https://google.jiongjun.cc
