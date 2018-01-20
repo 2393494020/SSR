@@ -8,7 +8,7 @@ https://freess.pw \
 https://freessr.win \
 https://free-ss.site \
 https://www.ssrshare.com \
-https://doub.bid/sszhfx \
+https://doub.bid/sszhfx
 
 # 镜像
 https://google.jiongjun.cc
