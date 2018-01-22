@@ -2,8 +2,9 @@ https://m.whatsvpnweb.com 已失效
 https://tuziss.top/user \
 https://www.poro.top/user \
 https://s8.work/user \
-https://1hv.top 已失效
-https://freess.cx \
+https://en.ss8.fun \
+https://1hv.top 已失效 \
+https://freess.cx 已失效 \
 https://freess.pw \
 https://freessr.win \
 https://free-ss.site \
