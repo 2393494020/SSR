@@ -1,6 +1,6 @@
 https://m.whatsvpnweb.com 已失效 \
 https://tuziss.top/user \
-https://www.poro.top/user \
+https://www.poro.top/user 已失效 \
 https://s8.work/user \
 https://en.ss8.fun \
 https://global.ishadowx.net \
