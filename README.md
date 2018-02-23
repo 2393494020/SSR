@@ -5,7 +5,7 @@ https://s8.work/user \
 https://en.ss8.fun \
 https://global.ishadowx.net \
 https://1hv.top 已失效 \
-https://freess.cx 已失效 \
+https://freess.cx \
 https://freess.pw \
 https://freessr.win \
 https://free-ss.site \
