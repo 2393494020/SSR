@@ -17,6 +17,7 @@ https://github.com/max2max/freess/wiki/%E5%85%8D%E8%B4%B9ss%E8%B4%A6%E5%8F%B7 \
 https://www.hanhanfilm.com \
 http://www.youtubeto.com/zh \
 https://y2mate.com \
+http://finelybook.com \
 http://www.yinwang.org
 
 # 镜像
