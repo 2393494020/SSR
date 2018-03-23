@@ -43,4 +43,4 @@ sed -i '/evlsprt/d' ~/.java/.userPrefs/prefs.xml
 #Remove the folder ´eval´ \
 #Edit file options/options.xml and remove all properties that the name begins with evlsprt, such as: \
 #<property name="evlsprt3.171" value="18" /> \
-#Go to Windows Registry and under subkeys of HKCU\Software\JavaSoft\Prefs\jetbrains\idea delete keys that begin with evlsprt
+#Go to Windows Registry and under subkeys of HKEY_CURRENT_USER\Software\JavaSoft\Prefs\jetbrains\idea delete keys that begin with evlsprt
