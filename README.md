@@ -37,7 +37,7 @@ sed -i '/evlsprt/d' ~/.java/.userPrefs/prefs.xml
 
 
 ## or:
-#For IntelliJ IDEA 2017.1.2 EAP on Windows 10, I had to: \
+#For IntelliJ IDEA 2017.1.2 EAP on Windows 10, I had to:
 #
 #Go to ´~/.IntelliJIdea2017.1/config´ \
 #Remove the folder ´eval´ \
