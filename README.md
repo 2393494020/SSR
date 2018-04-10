@@ -19,7 +19,8 @@ http://www.youtubeto.com/zh \
 https://y2mate.com \
 http://finelybook.com \
 http://www.yinwang.org \
-https://www.worldsrc.com/programs/crack.php?Ty=411&n=crack_For_Navicat_Premium
+https://www.worldsrc.com/programs/crack.php?Ty=411&n=crack_For_Navicat_Premium \
+https://askubuntu.com/questions/761604/eclipse-not-working-in-16-04
 
 # 镜像
 https://google.jiongjun.cc
