@@ -20,7 +20,8 @@ https://y2mate.com \
 http://finelybook.com \
 http://www.yinwang.org \
 https://www.worldsrc.com/programs/crack.php?Ty=411&n=crack_For_Navicat_Premium \
-https://askubuntu.com/questions/761604/eclipse-not-working-in-16-04
+https://askubuntu.com/questions/761604/eclipse-not-working-in-16-04 \
+http://element-cn.eleme.io/#/en-US
 
 # 镜像
 https://google.jiongjun.cc
