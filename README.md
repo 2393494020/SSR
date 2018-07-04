@@ -1,3 +1,4 @@
+https://github.com/linker402/ssr-win \
 https://s8.work/user \
 https://en.ss8.fun \
 https://global.ishadowx.net \
