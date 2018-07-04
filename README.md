@@ -15,6 +15,7 @@ https://www.hanhanfilm.com \
 http://www.youtubeto.com/zh \
 https://y2mate.com \
 http://finelybook.com \
+http://www.hejizhan.com/html/search \
 https://www.worldsrc.com/programs/crack.php?Ty=411&n=crack_For_Navicat_Premium \
 http://element-cn.eleme.io/#/en-US
 
