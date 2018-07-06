@@ -7,6 +7,7 @@ https://freess.cx \
 https://freess.pw \
 https://freessr.win \
 https://free-ss.site \
+https://ss.freess.org \
 https://get.freess.today \
 https://www.ssrshare.com \
 https://doub.bid/sszhfx \
