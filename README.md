@@ -1,3 +1,4 @@
+https://shadowsocksr.cat \
 https://github.com/linker402/ssr-win \
 https://www.ssru.xyz/user/nodes \
 https://ss.romdw.com/user \
