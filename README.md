@@ -5,9 +5,7 @@ https://ss.romdw.com/user \
 https://s8.work/user \
 https://en.ss8.fun \
 https://global.ishadowx.net \
-https://1hv.top \
 https://freess.cx \
-https://freess.pw \
 https://freessr.win \
 https://free-ss.site \
 https://ss.freess.org \
