@@ -8,6 +8,7 @@ https://global.ishadowx.net \
 https://freess.cx \
 https://freessr.win \
 https://free-ss.site \
+https://www.wuwweb.com \
 https://ss.freess.org \
 https://get.freess.today \
 https://www.ssrshare.com \
