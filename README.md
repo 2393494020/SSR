@@ -21,8 +21,8 @@ https://y2mate.com \
 http://finelybook.com \
 http://www.hejizhan.com/html/search \
 https://www.worldsrc.com/programs/crack.php?Ty=411&n=crack_For_Navicat_Premium \
-http://element-cn.eleme.io/#/en-US
-
+http://element-cn.eleme.io/#/en-US \
+https://official-kmspico.com/download/
 
 # idea trial reset
 #!/bin/bash
