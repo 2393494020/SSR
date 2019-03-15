@@ -1,4 +1,3 @@
-https://shadowsocksr.cat \
 https://github.com/linker402/ssr-win \
 https://www.ssru.xyz/user/nodes \
 https://ss.romdw.com/user \
@@ -6,10 +5,8 @@ https://s8.work/user \
 https://en.ss8.fun \
 https://global.ishadowx.net \
 https://freess.cx \
-https://freessr.win \
 https://free-ss.site \
 https://www.wuwweb.com \
-https://ss.freess.org \
 https://get.freess.today \
 https://www.ssrshare.com \
 https://doub.io/sszhfx \
