@@ -6,7 +6,6 @@ https://global.ishadowx.net \
 https://freess.cx \
 https://free-ss.site \
 https://www.wuwweb.com \
-https://get.freess.today \
 https://www.ssrshare.com \
 https://doub.io/sszhfx \
 https://github.com/max2max/freess \
