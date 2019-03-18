@@ -1,7 +1,6 @@
 https://github.com/linker402/ssr-win \
 https://www.ssru.xyz/user/nodes \
 https://ss.romdw.com/user \
-https://s8.work/user \
 https://en.ss8.fun \
 https://global.ishadowx.net \
 https://freess.cx \
