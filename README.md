@@ -19,6 +19,7 @@ https://www.worldsrc.com/programs/crack.php?Ty=411&n=crack_For_Navicat_Premium \
 http://element-cn.eleme.io/#/en-US \
 https://official-kmspico.com/download/ \
 https://www.youtube.com/playlist?list=PL6W3lurecOfyq3PucJuBNo5IWdH0FaTdo
+https://www.youtube.com/user/xxfflower/playlists
 
 # idea trial reset
 #!/bin/bash
