@@ -25,7 +25,7 @@ https://www.youtube.com/user/xxfflower/playlists
 
 # idea trial reset
 ## linux
-rm -rf ~/.java/.userPrefs/prefs.xml
+rm -rf ~/.java/.userPrefs
 
 
 ## windows
