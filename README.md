@@ -19,8 +19,7 @@ https://www.youtube.com/user/xxfflower/playlists
 # tool
 https://www.processon.com  
 https://www.worldsrc.com/programs/crack.php?Ty=411&n=crack_For_Navicat_Premium  
-http://element-cn.eleme.io/#/en-US  
-https://official-kmspico.com/download/  
+https://official-kmspico.com/download  
 # knowledge
 https://www.douban.com/doulist/111253184  
 http://finelybook.com  
