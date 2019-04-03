@@ -10,22 +10,21 @@ https://www.wuwweb.com
 https://www.ssrshare.com  
 https://doub.io/sszhfx  
 https://github.com/max2max/freess
-# resource
-## video
+# video
 https://www.hanhanfilm.com  
 http://www.youtubeto.com/zh  
 https://y2mate.com  
-http://finelybook.com  
 https://www.youtube.com/playlist?list=PL6W3lurecOfyq3PucJuBNo5IWdH0FaTdo  
 https://www.youtube.com/user/xxfflower/playlists 
-## tool
+# tool
 https://www.processon.com  
 https://www.worldsrc.com/programs/crack.php?Ty=411&n=crack_For_Navicat_Premium  
 http://element-cn.eleme.io/#/en-US  
 https://official-kmspico.com/download/  
-## knowledge
-http://blog.jobbole.com/114573  
+# knowledge
 https://www.douban.com/doulist/111253184  
+http://finelybook.com  
+http://blog.jobbole.com/114573  
 
 # idea trial reset
 ## linux
