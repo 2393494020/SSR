@@ -24,7 +24,10 @@ https://official-kmspico.com/download
 https://www.douban.com/doulist/111253184  
 http://finelybook.com  
 http://blog.jobbole.com/114573  
-
+# books
+https://www.readerssection.com  
+http://bestcbooks.com  
+http://freecomputerbooks.com  
 # idea trial reset
 ## linux
 rm -rf ~/.java/.userPrefs
