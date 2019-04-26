@@ -28,6 +28,7 @@ http://blog.jobbole.com/114573
 https://www.readerssection.com  
 http://bestcbooks.com  
 http://freecomputerbooks.com  
+http://www.torrentroom.com/torrent/1414782-Winston-Churchill-The-Second-World-War-Volumes-1-6.html  
 # idea trial reset
 ## linux
 rm -rf ~/.java/.userPrefs
