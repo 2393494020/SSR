@@ -11,7 +11,6 @@ https://www.ssrshare.com
 https://doub.io/sszhfx  
 https://github.com/max2max/freess
 # video
-https://www.hanhanfilm.com  
 http://www.youtubeto.com/zh  
 https://y2mate.com  
 https://www.youtube.com/playlist?list=PL6W3lurecOfyq3PucJuBNo5IWdH0FaTdo  
